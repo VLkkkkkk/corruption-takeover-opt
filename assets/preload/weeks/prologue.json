@@ -1,0 +1,31 @@
+{
+	"storyName": "Where it all started",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "lem",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"lemdem",
+		"vig"
+	],
+	"songs": [
+		[
+			"Frostbite",
+			"lmod",
+			[
+				138,
+				115,
+				54
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Beginning"
+}
