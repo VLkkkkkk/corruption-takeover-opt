@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downl",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemdem",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "lmod",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		33,
+		69
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
