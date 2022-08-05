@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "normal",
+	"idle_anim": "normal",
+	"position": [
+		781,
+		72
+	],
+	"scale": 1.05,
+	"image": "vig"
+}
