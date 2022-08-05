@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fogthing.png">
+	
+	
+	<SubTexture name="fog instancia 10000" x="0" y="0" width="333" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10001" x="333" y="0" width="339" height="216" frameX="-2" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10002" x="673" y="0" width="336" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10003" x="1009" y="0" width="340" height="216" frameX="-1" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10004" x="1349" y="0" width="341" height="216" />
+	<SubTexture name="fog instancia 10005" x="1691" y="0" width="338" height="216" frameX="-2" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10006" x="0" y="216" width="335" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10007" x="335" y="216" width="338" height="216" frameX="-2" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10008" x="673" y="216" width="332" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10009" x="1005" y="216" width="333" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10010" x="1339" y="216" width="336" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10011" x="1675" y="216" width="336" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10012" x="0" y="432" width="335" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10013" x="335" y="432" width="329" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10014" x="665" y="432" width="333" height="216" frameX="-5" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10015" x="998" y="432" width="335" height="216" frameX="-1" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10016" x="1334" y="432" width="328" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10017" x="1663" y="432" width="322" height="216" frameX="-7" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10018" x="0" y="648" width="336" height="216" frameX="0" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10019" x="336" y="648" width="334" height="216" frameX="-2" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10020" x="671" y="648" width="333" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10021" x="1004" y="648" width="326" height="216" frameX="-13" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10022" x="1331" y="648" width="326" height="216" frameX="-9" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10023" x="1658" y="648" width="334" height="216" frameX="-5" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10024" x="0" y="864" width="332" height="216" frameX="-7" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10025" x="332" y="864" width="334" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10026" x="667" y="864" width="333" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10027" x="1000" y="864" width="339" height="216" frameX="0" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10028" x="1339" y="864" width="329" height="216" frameX="-8" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10029" x="1668" y="864" width="332" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10030" x="0" y="1080" width="324" height="216" frameX="-8" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10031" x="324" y="1080" width="323" height="216" frameX="-5" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10032" x="647" y="1080" width="340" height="216" frameX="0" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10033" x="987" y="1080" width="336" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10034" x="1323" y="1080" width="336" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10035" x="1659" y="1080" width="327" height="216" frameX="-14" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10036" x="0" y="1296" width="329" height="216" frameX="-10" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10037" x="329" y="1296" width="329" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10038" x="659" y="1296" width="333" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10039" x="993" y="1296" width="326" height="216" frameX="-8" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10040" x="1319" y="1296" width="326" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10041" x="1645" y="1296" width="333" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10042" x="0" y="1512" width="331" height="216" frameX="-6" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10043" x="331" y="1512" width="334" height="216" frameX="-3" frameY="0" frameWidth="341" frameHeight="216" />
+	<SubTexture name="fog instancia 10044" x="665" y="1512" width="335" height="216" frameX="-4" frameY="0" frameWidth="341" frameHeight="216" />
+</TextureAtlas>
