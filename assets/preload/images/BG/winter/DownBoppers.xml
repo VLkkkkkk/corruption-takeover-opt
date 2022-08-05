@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DownBoppers.png">
+	
+	
+	<SubTexture name="Second Corrupted Boppers0000" x="0" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0001" x="0" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0002" x="426" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0003" x="426" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0004" x="853" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0005" x="853" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0006" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0007" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0008" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0009" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0010" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0011" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0012" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Corrupted Boppers0013" x="1279" y="0" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0000" x="0" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0001" x="0" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0002" x="426" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0003" x="426" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0004" x="853" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0005" x="853" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0006" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0007" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0008" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0009" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0010" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0011" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0012" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level Boppers0013" x="1279" y="308" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0000" x="0" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0001" x="0" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0002" x="426" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0003" x="426" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0004" x="853" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0005" x="853" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0006" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0007" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0008" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0009" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0010" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0011" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0012" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level2 Boppers0013" x="1279" y="617" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0000" x="0" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0001" x="0" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0002" x="426" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0003" x="426" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0004" x="853" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0005" x="853" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0006" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0007" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0008" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0009" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0010" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0011" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0012" x="1279" y="925" width="426" height="308" />
+	<SubTexture name="Second Level3 Boppers0013" x="1279" y="925" width="426" height="308" />
+</TextureAtlas>
