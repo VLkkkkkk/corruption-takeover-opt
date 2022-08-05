@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BaseSheet.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SickRating0000" x="0" y="0" width="375" height="150" frameX="0" frameY="0" frameWidth="375" frameHeight="150"/>
+	<SubTexture name="GoodRating0000" x="0" y="150" width="375" height="150" frameX="0" frameY="0" frameWidth="375" frameHeight="150"/>
+	<SubTexture name="BadRating0000" x="0" y="300" width="375" height="150" frameX="0" frameY="0" frameWidth="375" frameHeight="150"/>
+	<SubTexture name="ShitRating0000" x="0" y="450" width="375" height="150" frameX="0" frameY="0" frameWidth="375" frameHeight="150"/>
+	<SubTexture name="MissRating0000" x="0" y="600" width="375" height="150" frameX="0" frameY="0" frameWidth="375" frameHeight="150"/>
+</TextureAtlas>
