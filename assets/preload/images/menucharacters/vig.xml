@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vig.png">
+<SubTexture name="normal0000" x="0" y="0" width="1340" height="416" frameX="0" frameY="-66" frameWidth="1340" frameHeight="760" />
+<SubTexture name="select0000" x="0" y="0" width="1340" height="416" frameX="0" frameY="-66" frameWidth="1340" frameHeight="760" />
+</TextureAtlas>
