@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scenes.png">
+	
+	
+	<SubTexture name="DD10000" x="0" y="0" width="683" height="384" />
+	<SubTexture name="DD20000" x="683" y="0" width="683" height="384" />
+	<SubTexture name="DD30000" x="0" y="384" width="683" height="384" />
+	<SubTexture name="GF0000" x="683" y="384" width="683" height="384" />
+	<SubTexture name="LemLila0000" x="0" y="768" width="683" height="384" />
+	<SubTexture name="RuvSarv0000" x="683" y="768" width="683" height="384" />
+	<SubTexture name="SkidNene0000" x="0" y="1152" width="683" height="384" />
+	<SubTexture name="TabiWhitty0000" x="683" y="1152" width="683" height="384" />
+</TextureAtlas>

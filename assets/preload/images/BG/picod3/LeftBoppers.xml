@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LeftBoppers.png">
+<SubTexture name="Boppers LEFT0000" x="907" y="0" width="455" height="376" frameX="-4" frameY="-35" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0001" x="907" y="0" width="455" height="376" frameX="-4" frameY="-35" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0002" x="451" y="384" width="451" height="378" frameX="-6" frameY="-33" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0003" x="451" y="384" width="451" height="378" frameX="-6" frameY="-33" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0004" x="0" y="384" width="451" height="382" frameX="-8" frameY="-29" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0005" x="0" y="384" width="451" height="382" frameX="-8" frameY="-29" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0006" x="454" y="0" width="453" height="383" frameX="-8" frameY="-28" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0007" x="454" y="0" width="453" height="383" frameX="-8" frameY="-28" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0008" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0009" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0010" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0011" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0012" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0013" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+<SubTexture name="Boppers LEFT0014" x="0" y="0" width="454" height="384" frameX="-8" frameY="-27" frameWidth="493" frameHeight="414" />
+</TextureAtlas>
