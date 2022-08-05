@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Limo.png">
+<SubTexture name="Limo Bop0000" x="645" y="526" width="607" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0001" x="0" y="0" width="651" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0002" x="0" y="0" width="651" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0003" x="0" y="263" width="650" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0004" x="0" y="263" width="650" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0005" x="651" y="0" width="650" height="262" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0006" x="651" y="0" width="650" height="262" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0007" x="651" y="262" width="647" height="260" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0008" x="651" y="262" width="647" height="260" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0009" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0010" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0011" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0012" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0013" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0014" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0015" x="645" y="526" width="607" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0016" x="0" y="0" width="651" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0017" x="0" y="0" width="651" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0018" x="0" y="263" width="650" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0019" x="0" y="263" width="650" height="263" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0020" x="651" y="0" width="650" height="262" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0021" x="651" y="0" width="650" height="262" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0022" x="651" y="262" width="647" height="260" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0023" x="651" y="262" width="647" height="260" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0024" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0025" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0026" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0027" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0028" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+<SubTexture name="Limo Bop0029" x="0" y="526" width="645" height="258" frameX="-212" frameY="-327" frameWidth="874" frameHeight="599" />
+</TextureAtlas>
